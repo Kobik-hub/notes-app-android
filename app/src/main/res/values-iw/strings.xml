@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פתקים</string>
+    <string name="logout">התנתק</string>
+    <string name="titleLabel">כותרת</string>
+    <string name="context">גוף ההודעה</string>
+    <string name="created_in">נוצר ב</string>
+    <string name="save">שמור</string>
+    <string name="enter_title_here">הכנס כותרת כאן</string>
+    <string name="enter_context_here">הכנס גוף הודעה כאן</string>
+    <string name="change_language">שנה שפה</string>
+    <string name="title">פתקים</string>
+    <string name="hey">שלום,</string>
+    <string name="delete_note">מחק פתק</string>
+    <string name="msg_delete_note">האם אתה בטוח שברצונך למחוק את הפתק?</string>
+    <string name="yes">כן</string>
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="today">היום</string>
+    <string name="title_and_body_require_msg">כותרת וגוף הודעה הם שדות חובה.</string>
+    <string name="title_is_require_msg">כותרת הוא שדה חובה.</string>
+    <string name="context_is_required_msg">גוף הודעה הוא שדה חובה.</string>
+    <string name="new_note_created_msg">פתק חדש נוצר בהצלחה</string>
+    <string name="choose_lang_msg">בחר שפה:</string>
+</resources>

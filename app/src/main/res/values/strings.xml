@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Notes</string>
+    <string name="logout">Logout</string>
+    <string name="titleLabel">Title</string>
+    <string name="context">Body of the text</string>
+    <string name="created_in">Created in</string>
+    <string name="save">Save</string>
+    <string name="enter_title_here">Enter Title here</string>
+    <string name="enter_context_here">Enter Context here</string>
+    <string name="change_language">change_language</string>
+    <string name="hey">Hey,</string>
+    <string name="delete_note">Delete note</string>
+    <string name="msg_delete_note">Are you sure you want to delete this note?</string>
+    <string name="yes">yes</string>
+    <string name="date_format">MM/dd/yyyy</string>
+    <string name="today">Today</string>
+    <string name="title_and_body_require_msg">Title and context is required</string>
+    <string name="title_is_require_msg">Title is required</string>
+    <string name="context_is_required_msg">Context is required</string>
+    <string name="new_note_created_msg">New note created</string>
+    <string name="choose_lang_msg">"Choose Language: "</string>
+</resources>
